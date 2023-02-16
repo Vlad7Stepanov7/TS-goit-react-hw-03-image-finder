@@ -1,7 +1,8 @@
 {
-  "name": "ts-finder-image",
+  "name": "ts-goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Vlad7Stepanov7.github.io/ts-goit-react-hw-03-image-finder/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
