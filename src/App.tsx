@@ -1,5 +1,5 @@
 import { Box } from "./App.styled";
-import React, { Component } from "react";
+import { Component } from "react";
 import Searchbar from "./components/Searchbar/Searchbar";
 import ImageGallery from "./components/ImageGallery/ImageGallery";
 import ImageGalleryItem from "./components/ImageGalleryItem/ImageGalleryItem";
