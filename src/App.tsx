@@ -1,8 +1,8 @@
 import { Box } from "./App.styled";
 import React, { Component } from "react";
-import Searchbar from "./components/Searchbar";
-import ImageGallery from "./components/ImageGallery";
-import ImageGalleryItem from "./components/ImageGalleryItem";
+import Searchbar from "./components/Searchbar/Searchbar";
+import ImageGallery from "./components/ImageGallery/ImageGallery";
+import ImageGalleryItem from "./components/ImageGalleryItem/ImageGalleryItem";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { getImages } from "./utils/API";

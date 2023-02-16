@@ -1,6 +1,6 @@
 import { Gallery } from "./ImageGallery.styled";
-import Button from ".././Button";
-import Loader from ".././Loader";
+import Button from ".././Button/Button";
+import Loader from ".././Loader/Loader";
 import { FC } from "react";
 import React from "react";
 

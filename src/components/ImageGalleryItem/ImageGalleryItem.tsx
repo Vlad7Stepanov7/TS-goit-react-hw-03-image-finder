@@ -1,6 +1,6 @@
 import { GalleryItem, GalleryItemImage } from "./ImageGalleryItem.styled";
 import React, { Component } from "react";
-import Modal from ".././Modal";
+import Modal from ".././Modal/Modal";
 import { Image } from "../../utils/types";
 
 interface IProps {
